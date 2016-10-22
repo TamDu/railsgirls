@@ -24,7 +24,7 @@ Things you may want to cover:
 * ...
 
 
-    ## Rails Girls 2015 
+   <h2>  ## Rails Girls 2015 </h2>
 
     ---
 
