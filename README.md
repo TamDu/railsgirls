@@ -48,7 +48,7 @@ Things you may want to cover:
     * Ktown 
     * chinatown 
     * Get okonomiyaki
-    *i'm out of ideas
+    **i'm out of ideas**
 
     My Coach: (Leora Juster)  
     My Pair: (Alex Adelman)
