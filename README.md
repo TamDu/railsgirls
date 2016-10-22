@@ -22,3 +22,32 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+    ## Rails Girls 2015 
+
+    ---
+
+    #### Ruby version 2.3.0
+    #### Rails version 5.0.0.1
+
+    ### L.A. Adventure App
+
+    A bucket list for Los Angeles. This is a list of all the things I'd like to do in case I moved out of Los Angeles and never got to return. All the things I think about doing all the time but haven't made time to do yet.
+
+    *Made by* **Tam Du**  
+    On 10-22-2016  
+
+    * go on that glass slide in that big building 
+    * learning to surf 
+    * eat at all the restaurants in LA 
+    * Learn how to rock climb 
+    * go to an outdoor cinema 
+    * Hang gliding 
+    * Jtown 
+    * Ktown 
+    * chinatown 
+    * Get okonomiyaki
+
+    My Coach: (Leora Juster)  
+    My Pair: (Alex Adelman)
